@@ -4,27 +4,20 @@ uma vogal usando funções de string.
 """
 
 def verificar_vogal(letra):
-    # Coloca a letra em minúscula para não ter problema com maíscula.
     letra = letra.lower()
-
-
-    # Verifica se a letra esta na string de vogais.
     if letra in "aeiou":
         return f"A letra '{letra}' é uma vogal."
     else:
         return f"A letra '{letra}' não é uma vogal."
 
 # Programa principal
-
-letra_digitada = input("Digite uma letra:  ")
-
-# Garante que o usuário digitou apenas 1 caractere.
+letra_digitada = input("Digite uma letra: ").strip()
 
 if len(letra_digitada) == 1:
     print(verificar_vogal(letra_digitada))
-
 else:
     print("Digite apenas UMA letra.")
+
 
 
 """def eh_vogal(letra):
