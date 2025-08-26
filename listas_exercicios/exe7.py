@@ -2,7 +2,32 @@
 Exercício 7: Verificação de vogais (função de string) Peça uma letra e verifique se é
 uma vogal usando funções de string.
 """
-def eh_vogal(letra):
+
+def verificar_vogal(letra):
+    # Coloca a letra em minúscula para não ter problema com maíscula.
+    letra = letra.lower()
+
+
+    # Verifica se a letra esta na string de vogais.
+    if letra in "aeiou":
+        return f"A letra '{letra}' é uma vogal."
+    else:
+        return f"A letra '{letra}' não é uma vogal."
+
+# Programa principal
+
+letra_digitada = input("Digite uma letra:  ")
+
+# Garante que o usuário digitou apenas 1 caractere.
+
+if len(letra_digitada) == 1:
+    print(verificar_vogal(letra_digitada))
+
+else:
+    print("Digite apenas UMA letra.")
+
+
+"""def eh_vogal(letra):
     if letra in "aeiouAEIOU":
         return True
     else:
@@ -15,7 +40,6 @@ if eh_vogal(entrada):
     print("É uma vogal")
 else:
     print("Não é vogal")
-
 
 # Primeiro modo sem prestar atenção no enunciado
 #letra = input("Digite uma letra: ").lower()
@@ -30,3 +54,4 @@ else:
     #print("É uma vogal")
 #else:
     #print("Não é uma vogal")
+    """
