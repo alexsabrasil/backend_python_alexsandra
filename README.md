@@ -1,4 +1,4 @@
-# 🚀 Bolsa Futuro Digital – Back-End Python  
+# 🚀 Bolsa Futuro Digital – Back-End Python - T3/C1
 
 Bem-vindo(a) ao meu repositório de estudos do programa **Bolsa Futuro Digital**, com foco em **Back-End Python**.  
 Aqui registro minhas **aulas, exercícios, práticas e projetos**, mostrando a evolução da minha jornada na programação. 🖥️🐍  
