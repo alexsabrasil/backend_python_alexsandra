@@ -1,3 +1,19 @@
+"""
+Nova implementação. 
+● Adicionar a variável nome do funcionário 
+● Pesquisar sobre alíquota IR e INSS 
+● Implementar o cálculo do IR e do INSS 
+● Implementar as restrições nos campos, estes não podem estar vazios ou em branco. 
+● Criar as funções (cadastrar, excluir, alterar, listar) 
+● O programa deve funcionar tantas vezes quanto for necessário. 
+
+Sistema Folha de Pagamento 
+● O programa deve oferecer uma opção para o usuário listar todos os funcionários cadastrados.
+● O programa deve disponibilizar uma opção para o usuário sair do Sistema. 
+● Ao final, exibir a mensagem: Programa finalizado com sucesso!!!
+"""
+
+
 # Sistema Folha de Pagamento
 
 funcionarios = []  # lista para armazenar os funcionários
