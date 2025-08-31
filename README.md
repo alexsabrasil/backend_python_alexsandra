@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🚀 Bolsa Futuro Digital – Back-End Python  
 
 Bem-vindo(a) ao meu repositório de estudos do programa **Bolsa Futuro Digital**, com foco em **Back-End Python**.  
@@ -65,5 +64,5 @@ Aqui registro minhas **aulas, exercícios, práticas e projetos**, mostrando a e
 
 📌 *Este README será atualizado conforme avanço no curso.*  
 💡 Acompanhe minha evolução por aqui no GitHub!  
-EOF
+
 
