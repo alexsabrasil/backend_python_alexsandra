@@ -12,7 +12,8 @@ Aqui registro minhas **aulas, exercícios, práticas e projetos**, mostrando a e
 - 🔢 **Variáveis** e tipos de dados (\`int\`, \`float\`, \`string\`, \`bool\`).  
 - ➕ **Operadores** aritméticos, lógicos e relacionais.  
 - 📝 Entrada (\`input\`) e saída de dados (\`print\`).  
-- 🏋️‍♀️ Exercícios de lógica para treinar raciocínio computacional.  
+- 🏋️‍♀️ Exercícios de lógica para treinar raciocínio computacional. 
+- Exercícios práticos Padrões de Projeto Implementando Biblioteca,controller,dados,model,service
 
 ### 🔹 Estruturas de Dados  
 - 📋 **Listas** → criação, indexação, fatiamento e métodos (\`append\`, \`remove\`, \`sort\`).  
@@ -21,14 +22,17 @@ Aqui registro minhas **aulas, exercícios, práticas e projetos**, mostrando a e
 - 🧩 Estruturas aninhadas.  
 - ✅ Práticas:  
   - Sistema de **Cadastro de Alunos** (usando lista de dicionários).  
-  - Manipulação de listas: soma, média e filtragem.  
+  - Manipulação de listas: soma, média e filtragem.
+  - Implementação livraria: cadastro, dados, modelo e serviço.  
 
 ### 🔹 Estruturas Condicionais & Laços  
 - 🔀 **If / Else / Elif** para decisões no código.  
 - 🔁 **Loops for e while**.  
 - 🖥️ Aplicações práticas:  
   - Menus interativos.  
-  - Validação de entradas do usuário.  
+  - Validação de entradas do usuário.
+  - Dados
+  - SQLServer  
 
 ### 🔹 Funções  
 - ⚙️ Criação e chamada de funções.  
@@ -42,7 +46,9 @@ Aqui registro minhas **aulas, exercícios, práticas e projetos**, mostrando a e
 - 🐍 **Python 3.x**  
 - 💻 **Visual Studio Code**  
 - 🌱 **Git & GitHub**  
-- 🐧 **Terminal Linux (WSL/VSCode)**  
+- 🐧 **Terminal Linux (WSL/VSCode)** 
+- 💻 **MySQL Workbench 8.0 CE**
+- 💻 **Streamlit**
 
 ---
 
@@ -58,7 +64,7 @@ Aqui registro minhas **aulas, exercícios, práticas e projetos**, mostrando a e
 ➡️ Manipulação de **arquivos**.  
 ➡️ Estudo de **Programação Orientada a Objetos (POO)**.  
 ➡️ **APIs e Banco de Dados**.  
-➡️ Projeto integrador em **Back-End Python**.  
+➡️ Projeto integrador em **Back-End Python**.
 
 ---
 
